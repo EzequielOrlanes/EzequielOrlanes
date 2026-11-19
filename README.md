@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&width=700&height=70&lines=Ezequiel+Orlanes;Desenvolvedor+backend;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o+%E2%80%94+UFMG" alt="Ezequiel Orlanes, desenvolvedor backend" />
+<img src="https://raw.githubusercontent.com/EzequielOrlanes/EzequielOrlanes/main/assets/banner-smw.svg" alt="Ezequiel Orlanes, desenvolvedor backend" width="860">
 
 Construo sistemas que se comunicam bem: serviços, redes, troca de mensagens e dados. Aqui ficam os projetos que faço para estudar, revisar e evoluir.
 
@@ -49,12 +49,9 @@ Todos os repositórios estão na aba [Repositories](https://github.com/EzequielO
 
 <div align="center">
 
-<img alt="Grade de contribuições em formato de cobra" src="https://raw.githubusercontent.com/EzequielOrlanes/EzequielOrlanes/output/github-contribution-grid-snake.svg" width="100%">
+<img alt="Painel de atividade no GitHub" src="https://raw.githubusercontent.com/EzequielOrlanes/EzequielOrlanes/main/assets/atividade-smw.svg" width="860">
 
-<br>
-
-<img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=EzequielOrlanes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170">
-<img alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielOrlanes&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="170">
+<sub>Atualizado todo dia pelo workflow `atividade.yml`.</sub>
 
 </div>
 
